@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+#contener{
+    height: 210px;
+    background-color: aqua;
+    display: flex;
+    gap: 10px;
+    
+}
+#contener div{
+    height: 200px;
+    width: 200px;
+    border: 1px black solid;
+}
+#rouge{
+    background-color: red;
+}
+#bleu{
+    background-color: blue;
+}
+#vert{
+    background-color: green;
+}
+#jaune{
+    background-color: yellow;
+}
+#titre{
+
+}
